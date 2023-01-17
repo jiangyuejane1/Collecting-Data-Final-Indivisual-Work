@@ -1,0 +1,1 @@
+This repository contains an improved version of the A3 assignment, which includes code to scrape azlyrics site for the titles and lyrics of three Taylor Swift songs. This version adds a function in addition to the previous version, replacing the repeated parts in each of the following functions.The link of the website is https://www.azlyrics.com
